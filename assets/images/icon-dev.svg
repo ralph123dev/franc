@@ -1,0 +1,66 @@
+<svg width="40" height="40" viewBox="0 0 40 40" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <!-- Fond légèrement teinté pour la profondeur -->
+  <path opacity="0.15" d="M8 34V10L20 4L32 10V34H8Z" fill="url(#paint0_linear)"/>
+  
+  <!-- Structure principale de l'immeuble -->
+  <path d="M7 35V9.5L20 3L33 9.5V35H31V11L20 5.5L9 11V35H7Z" fill="url(#paint1_linear)"/>
+  
+  <!-- Ligne de sol / Base -->
+  <path d="M4 35H36C36.5523 35 37 35.4477 37 36C37 36.5523 36.5523 37 36 37H4C3.44772 37 3 36.5523 3 36C3 35.4477 3.44772 35 4 35Z" fill="url(#paint2_linear)"/>
+  
+  <!-- Fenêtres Colonne Gauche -->
+  <rect x="12" y="14" width="4" height="4" rx="1" fill="url(#paint3_linear)"/>
+  <rect x="12" y="21" width="4" height="4" rx="1" fill="url(#paint4_linear)"/>
+  <rect x="12" y="28" width="4" height="4" rx="1" fill="url(#paint5_linear)"/>
+  
+  <!-- Fenêtres Colonne Droite -->
+  <rect x="24" y="14" width="4" height="4" rx="1" fill="url(#paint6_linear)"/>
+  <rect x="24" y="21" width="4" height="4" rx="1" fill="url(#paint7_linear)"/>
+  <rect x="24" y="28" width="4" height="4" rx="1" fill="url(#paint8_linear)"/>
+  
+  <!-- Détail Porte Centrale -->
+  <path d="M18 35V28C18 26.8954 18.8954 26 20 26C21.1046 26 22 26.8954 22 28V35H18Z" fill="url(#paint9_linear)"/>
+
+  <defs>
+    <linearGradient id="paint0_linear" x1="8" y1="4" x2="32" y2="34" gradientUnits="userSpaceOnUse">
+      <stop offset="0.259336" stop-color="#FFDB6E"/>
+      <stop offset="1" stop-color="#FFBC5E"/>
+    </linearGradient>
+    <linearGradient id="paint1_linear" x1="7" y1="3" x2="33" y2="35" gradientUnits="userSpaceOnUse">
+      <stop offset="0.259336" stop-color="#FFDB6E"/>
+      <stop offset="1" stop-color="#FFBC5E"/>
+    </linearGradient>
+    <linearGradient id="paint2_linear" x1="3" y1="35" x2="37" y2="37" gradientUnits="userSpaceOnUse">
+      <stop offset="0.259336" stop-color="#FFDB6E"/>
+      <stop offset="1" stop-color="#FFBC5E"/>
+    </linearGradient>
+    <linearGradient id="paint3_linear" x1="12" y1="14" x2="16" y2="18" gradientUnits="userSpaceOnUse">
+      <stop offset="0.259336" stop-color="#FFDB6E"/>
+      <stop offset="1" stop-color="#FFBC5E"/>
+    </linearGradient>
+    <linearGradient id="paint4_linear" x1="12" y1="21" x2="16" y2="25" gradientUnits="userSpaceOnUse">
+      <stop offset="0.259336" stop-color="#FFDB6E"/>
+      <stop offset="1" stop-color="#FFBC5E"/>
+    </linearGradient>
+    <linearGradient id="paint5_linear" x1="12" y1="28" x2="16" y2="32" gradientUnits="userSpaceOnUse">
+      <stop offset="0.259336" stop-color="#FFDB6E"/>
+      <stop offset="1" stop-color="#FFBC5E"/>
+    </linearGradient>
+    <linearGradient id="paint6_linear" x1="24" y1="14" x2="28" y2="18" gradientUnits="userSpaceOnUse">
+      <stop offset="0.259336" stop-color="#FFDB6E"/>
+      <stop offset="1" stop-color="#FFBC5E"/>
+    </linearGradient>
+    <linearGradient id="paint7_linear" x1="24" y1="21" x2="28" y2="25" gradientUnits="userSpaceOnUse">
+      <stop offset="0.259336" stop-color="#FFDB6E"/>
+      <stop offset="1" stop-color="#FFBC5E"/>
+    </linearGradient>
+    <linearGradient id="paint8_linear" x1="24" y1="28" x2="28" y2="32" gradientUnits="userSpaceOnUse">
+      <stop offset="0.259336" stop-color="#FFDB6E"/>
+      <stop offset="1" stop-color="#FFBC5E"/>
+    </linearGradient>
+    <linearGradient id="paint9_linear" x1="18" y1="26" x2="22" y2="35" gradientUnits="userSpaceOnUse">
+      <stop offset="0.259336" stop-color="#FFDB6E"/>
+      <stop offset="1" stop-color="#FFBC5E"/>
+    </linearGradient>
+  </defs>
+</svg>
